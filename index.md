@@ -1,8 +1,8 @@
 ---
 
 layout: col-sidebar
-title: OWASP cheat sheets
-tags: example-tag
+title: OWASP Cheat Sheet Series
+tags: appsec application-security best-practices builders defenders
 level: 4
 
 ---
