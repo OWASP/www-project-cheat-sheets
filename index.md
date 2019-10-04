@@ -7,6 +7,11 @@ level: 4
 
 ---
 
+[![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-48A646.svg)](https://www.owasp.org/index.php/OWASP_Project_Inventory#tab=Flagship_Projects)
+[![Cheat Sheet Series Github Stars](https://img.shields.io/github/stars/OWASP/CheatSheetSeries?label=Cheat%20Sheet%20Series&style=social)](https://github.com/OWASP/CheatSheetSeries/)
+[![CSCounterBadge](https://img.shields.io/badge/cheat_sheets_available-63-orange.svg)](https://github.com/OWASP/CheatSheetSeries/tree/master/cheatsheets)
+![LicenseBadge](https://img.shields.io/badge/license-C_C-blue.svg)
+
 ## Our Goal
 
 The OWASP Cheat Sheet Series (CSS) was created to provide a concise collection of high value information on specific application security topics. These cheat sheets were created by various application security professionals who have expertise in specific topics. We hope that the OWASP Cheat Sheet Series provides you with excellent security guidance in an easy to read format.
