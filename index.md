@@ -18,3 +18,13 @@ The archives of the old mailing list can be consulted [here](https://lists.owasp
 ## Official Website
 
 The official website on which all the cheat sheets are hosted is at <https://cheatsheetseries.owasp.org>.
+
+## Migration GitHub
+
+Project has been fully migrated to [GitHub](https://github.com/OWASP/CheatSheetSeries).
+
+This page is used as the OWASP homepage of the project, all the project's content is hosted on the [CSS GitHub repository](https://github.com/OWASP/CheatSheetSeries) and we work **only from** this repository, **the wiki is not used anymore**.
+
+The [CSS GitHub repository](https://github.com/OWASP/CheatSheetSeries) is used for the work on the cheat sheets, and the released ones are deployed on the [official website](https://cheatsheetseries.owasp.org).
+
+So, from now, only a GitHub account is needed to contribute :)
