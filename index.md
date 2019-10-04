@@ -9,7 +9,7 @@ level: 4
 
 ## Our Goal
 
-The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics. These cheat sheets were created by various application security professionals who have expertise in specific topics. We hope that the OWASP Cheat Sheet Series provides you with excellent security guidance in an easy to read format.
+The OWASP Cheat Sheet Series (CSS) was created to provide a concise collection of high value information on specific application security topics. These cheat sheets were created by various application security professionals who have expertise in specific topics. We hope that the OWASP Cheat Sheet Series provides you with excellent security guidance in an easy to read format.
 
 If you have any questions about the OWASP Cheat Sheet Series, please email the project leader [Jim Manico](mailto:jim.manico@owasp.org), contact us on the project's Slack channel, or on our [Google Group](https://groups.google.com/a/owasp.org/forum/#!forum/cheat-sheets-project) (**Slack is highly preferred over the Google Group**).
 
@@ -28,3 +28,20 @@ This page is used as the OWASP homepage of the project, all the project's conten
 The [CSS GitHub repository](https://github.com/OWASP/CheatSheetSeries) is used for the work on the cheat sheets, and the released ones are deployed on the [official website](https://cheatsheetseries.owasp.org).
 
 So, from now, only a GitHub account is needed to contribute :)
+
+## Bridge between the projects OWASP Proactive Controls, OWASP ASVS, and OWASP CSS
+
+A work channel has been created between OWASP Proactive Controls (OPC), OWASP Application Security Verification Standard (OASVS), and OWASP Cheat Sheet Series (OCSS) using the following process:
+
+- When a Cheat Sheet is missing for a point in OPC/OASVS, then the OCSS will handle the missing and create one. When the Cheat Sheet is ready, then the reference is added by OPC/OASVS.
+- If a Cheat Sheet exists for an OPC/OASVS point but the content do not provide the expected help then the Cheat Sheet is updated to provide the required content.
+
+The reason of the creation of this bridge is to help OCSS and OASVS projects by providing them:
+
+- A consistent source for the requests regarding new Cheat Sheets.
+- Same approach about the update of the existing Cheat Sheets.
+- A usage context for the Cheat Sheet and a quick source of feedack about the quality and the efficiency of the Cheat Sheet.
+
+It is not mandatory that a request for a new Cheat Sheet (or for an update) comes only from OPC/OASVS, it is just an extra channel.
+
+> Requests from OPC/OASVS are flagged with a special label in the GitHub repository issues list in order to identify them and set them as a top level priority.
