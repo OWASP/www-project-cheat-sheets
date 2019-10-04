@@ -27,7 +27,7 @@ This page is used as the OWASP homepage of the project, all the project's conten
 
 The [CSS GitHub repository](https://github.com/OWASP/CheatSheetSeries) is used for the work on the cheat sheets, and the released ones are deployed on the [official website](https://cheatsheetseries.owasp.org).
 
-So, from now, only a GitHub account is needed to contribute :)
+So, from now on, only a GitHub account is needed to contribute :)
 
 ## Bridge between the projects OWASP Proactive Controls, OWASP ASVS, and OWASP CSS
 
@@ -45,3 +45,19 @@ The reason of the creation of this bridge is to help OCSS and OASVS projects by 
 It is not mandatory that a request for a new Cheat Sheet (or for an update) comes only from OPC/OASVS, it is just an extra channel.
 
 > Requests from OPC/OASVS are flagged with a special label in the GitHub repository issues list in order to identify them and set them as a top level priority.
+
+## Project Leaders
+
+- [Jim Manico](mailto:jim.manico@owasp.org)
+
+## Core Team
+
+- [Elie Saad](mailto:eliesaad7@gmail.com)
+- [Jakub Maćkowski](mailto:jakub.mackowski@owasp.org)
+- [Robin Bailey](mailto:robin@rbsec.net)
+
+## Contributors V1
+
+Paweł Krawczyk, Mishra Dhiraj, Shruti Kulkarni, Torsten Gigler, Michael Coates, Jeff Williams, Dave Wichers, Kevin Wall, Jeffrey Walton, Eric Sheridan, Kevin Kenan, David Rook, Fred Donovan, Abraham Kang, Dave Ferguson, Shreeraj Shah, Raul Siles, Colin Watson, Neil Matatall, Zaur Molotnikov, Manideep Konakandla, Santhosh Tuppad and many more!
+
+> V2 contributors can be seen on [GitHub](https://github.com/OWASP/CheatSheetSeries/graphs/contributors).
