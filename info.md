@@ -7,8 +7,6 @@
 
 ![Documentation Project](assets/images/owasp_documentation_project.jpg)
 
-![CC License](assets/images/cc_license_small.png)
-
 ### Project Links
 
 - [Official Website](https://cheatsheetseries.owasp.org)
@@ -27,3 +25,5 @@
 ### Licensing
 
 The OWASP Cheat Sheet Series is free to use under the [Creative Commons ShareAlike 3 License](https://creativecommons.org/licenses/by-sa/3.0/us/).
+
+![CC License](assets/images/cc_license_small.png)
