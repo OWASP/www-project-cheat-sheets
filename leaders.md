@@ -1,3 +1,3 @@
 ### Leaders
 
-- [Leader Name](mailto://jim.manico@owasp.org)
+- [Jim Manico](mailto://jim.manico@owasp.org)
