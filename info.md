@@ -1,10 +1,12 @@
 ### Project Classification
 
 ![Flagship Project](assets/images/mature_projects.png)
+
 ![Builders](assets/images/owasp_builders_small.png)
 ![Defenders](assets/images/owasp_defenders_small.png)
 
 ![Documentation Project](assets/images/owasp_documentation_project.jpg)
+
 ![CC License](assets/images/cc_license_small.png)
 
 ### Project Links
