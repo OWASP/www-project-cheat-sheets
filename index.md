@@ -65,4 +65,6 @@ It is not mandatory that a request for a new Cheat Sheet (or for an update) come
 
 Paweł Krawczyk, Mishra Dhiraj, Shruti Kulkarni, Torsten Gigler, Michael Coates, Jeff Williams, Dave Wichers, Kevin Wall, Jeffrey Walton, Eric Sheridan, Kevin Kenan, David Rook, Fred Donovan, Abraham Kang, Dave Ferguson, Shreeraj Shah, Raul Siles, Colin Watson, Neil Matatall, Zaur Molotnikov, Manideep Konakandla, Santhosh Tuppad and many more!
 
-> V2 contributors can be seen on [GitHub](https://github.com/OWASP/CheatSheetSeries/graphs/contributors).
+## Contributors V2
+
+[GitHub Contributors Graph](https://github.com/OWASP/CheatSheetSeries/graphs/contributors).
