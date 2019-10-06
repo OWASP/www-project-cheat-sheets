@@ -22,11 +22,11 @@ The archives of the old mailing list can be consulted [here](https://lists.owasp
 
 ## Official Website
 
-The official website on which all the cheat sheets are hosted is at <https://cheatsheetseries.owasp.org>.
+The official website where the cheat sheets are hosted is at <https://cheatsheetseries.owasp.org>.
 
-## Migration GitHub
+## Migration to GitHub
 
-Project has been fully migrated to [GitHub](https://github.com/OWASP/CheatSheetSeries).
+The project has been fully migrated to [GitHub](https://github.com/OWASP/CheatSheetSeries).
 
 This page is used as the OWASP homepage of the project, all the project's content is hosted on the [OCSS GitHub repository](https://github.com/OWASP/CheatSheetSeries) and we work **only from** this repository, **the wiki is not used anymore**.
 
@@ -44,8 +44,8 @@ A work channel has been created between OWASP Proactive Controls (OPC), OWASP Ap
 The reason of the creation of this bridge is to help OCSS and OASVS projects by providing them:
 
 - A consistent source for the requests regarding new Cheat Sheets.
-- Same approach about the update of the existing Cheat Sheets.
-- A usage context for the Cheat Sheet and a quick source of feedack about the quality and the efficiency of the Cheat Sheet.
+- A shared approach for updating existing Cheat Sheets.
+- A usage context for the Cheat Sheet and a quick source of feedback about the quality and the efficiency of the Cheat Sheet.
 
 It is not mandatory that a request for a new Cheat Sheet (or for an update) comes only from OPC/OASVS, it is just an extra channel.
 
