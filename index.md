@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Cheat Sheet Series
 tags: appsec application-security best-practices builders defenders
 level: 4
+type: documentation
 
 ---
 
