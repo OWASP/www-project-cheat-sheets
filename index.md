@@ -52,13 +52,8 @@ It is not mandatory that a request for a new Cheat Sheet (or for an update) come
 
 > Requests from OPC/OASVS are flagged with a special label in the GitHub repository issues list in order to identify them and set them as a top level priority.
 
-## Project Leaders
-
-- [Jim Manico](mailto:jim.manico@owasp.org)
-
 ## Core Team
 
-- [Elie Saad](https://github.com/ThunderSon)
 - [Jakub Maćkowski](https://github.com/mackowski)
 - [Robin Bailey](https://github.com/rbsec/)
 
