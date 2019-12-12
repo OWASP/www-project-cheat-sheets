@@ -6,9 +6,9 @@ tags: cheat sheet series, appsec application-security best-practices builders de
 
 ---
 
-![OWASPHeader](/www-project-cheatsheets/assets/images/Preface_Cheatsheet_Header.png)
+![OWASPHeader](/www-project-cheat-sheets/assets/images/Preface_Cheatsheet_Header.png)
 
-![ProjectLogoOfficial](/www-project-cheatsheets/assets/images/Preface_Cheatsheet_Logo.png)
+![ProjectLogoOfficial](/www-project-cheat-sheets/assets/images/Preface_Cheatsheet_Logo.png)
 
 The **OWASP Cheat Sheet Series** was created to provide a concise collection of high value information on specific application security topics. These cheat sheets were created by various application security professionals who have expertise in specific topics. 
 
