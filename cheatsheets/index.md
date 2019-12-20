@@ -14,7 +14,7 @@ The **OWASP Cheat Sheet Series** was created to provide a concise collection of 
 
 We hope that this project provides you with excellent security guidance in an easy to read format.
 
-<a href="AJAX_Security_Cheat_Sheet" class="cta-button grey">Get Started</a>
+<div style="width:100%;"><a href="AJAX_Security_Cheat_Sheet" class="cta-button black">Get Started</a></div>
 
 You can download this site [here](bundle.zip).
 
