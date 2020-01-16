@@ -44,7 +44,7 @@ This Cheat Sheet provides guidance on the various areas that need to be consider
 
 ## Hashing vs Encryption
 
-Hashing and encrypted are two terms that are often confused or used incorrectly. The key difference between them is that hashing is a **one way** function (i.e, it is not possible to "decrypt" a hash and obtain the original value), whereas encryption is a two-way function.
+Hashing and encrypting are two terms that are often confused or used incorrectly. The key difference between them is that hashing is a **one way** function (i.e, it is not possible to "decrypt" a hash and obtain the original value), whereas encryption is a two-way function.
 
 In almost all circumstances passwords should be hashed, rather than encrypted, as this makes it difficult or impossible for an attacker to obtain the original passwords from the hashes.
 
