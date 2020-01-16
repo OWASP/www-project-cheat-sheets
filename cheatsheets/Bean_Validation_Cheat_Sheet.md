@@ -17,11 +17,11 @@ One advantage of this approach is that the validation constraints and the corres
 
 ## Typical Validation
 
-![Typical](/www-project-cheat-sheets/assets/Bean_Validation_Cheat_Sheet_Typical.png)
+![Typical](/www-project-cheat-sheets/assets/images/Bean_Validation_Cheat_Sheet_Typical.png)
 
 ## Bean Validation 
 
-![JSR](/www-project-cheat-sheets/assets/Bean_Validation_Cheat_Sheet_JSR.png)
+![JSR](/www-project-cheat-sheets/assets/images/Bean_Validation_Cheat_Sheet_JSR.png)
 
 # Setup
 
