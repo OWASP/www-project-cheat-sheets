@@ -1,7 +1,7 @@
 ---
 
 layout: col-document
-title: Cross-Site Request Forgery Prevention Cheat Sheet
+title: Cross-Site Request Forgery (CSRF) Prevention Cheat Sheet
 tags: cheat sheets, Cross-Site Request Forgery Prevention
 document: cheat sheets
 
