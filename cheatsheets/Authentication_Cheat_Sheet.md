@@ -289,5 +289,5 @@ Web applications should at least not make password managers job more difficult t
   - Avoid plugin-based login pages (such as Flash or Silverlight).
 - Allow long passwords (at least 64 characters).
 - Allow any printable characters to be used in passwords.
-- Allow users to to paste into the username and password fields.
+- Allow users to paste into the username and password fields.
 - Allow users to navigate between the username and password field with a single press of the `Tab` key.
