@@ -40,10 +40,10 @@ It is not mandatory that a request for a new Cheat Sheet (or for an update) come
 ## Project Leaders
 
 - [Jim Manico](mailto:jim.manico@owasp.org)
+- [Elie Saad](mailto:eliesaad7@gmail.com)
 
 ## Core Team
 
-- [Elie Saad](mailto:eliesaad7@gmail.com)
 - [Jakub Maćkowski](mailto:jakub.mackowski@owasp.org)
 - [Robin Bailey](mailto:robin@rbsec.net)
 
