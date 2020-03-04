@@ -10,12 +10,12 @@
 ### Project Links
 
 - [Official Website](https://cheatsheetseries.owasp.org)
-- [GitHub CSS Repository](https://github.com/OWASP/CheatSheetSeries)
+- [GitHub Repository](https://github.com/OWASP/CheatSheetSeries)
 
 ### Getting Involved
 
 - [Code of Conduct](https://github.com/OWASP/CheatSheetSeries/blob/master/CODE_OF_CONDUCT.md)
-- [Contributing to CSS](https://github.com/OWASP/CheatSheetSeries/blob/master/CONTRIBUTING.md)
+- [Contribution Guide](https://github.com/OWASP/CheatSheetSeries/blob/master/CONTRIBUTING.md)
 
 ### Slack
 
