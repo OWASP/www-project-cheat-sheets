@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Cheat Sheet Series
 tags: appsec application-security best-practices builders defenders
 level: 4
+pitch: The OWASP Cheat Sheet Series project provides a set of concise good practice guides for application developers and defenders to follow.
 
 ---
 
