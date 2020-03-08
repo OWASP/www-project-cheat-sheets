@@ -1,5 +1,7 @@
-# WWW Cheat Sheet Series Project
+# OWASP Cheat Sheet Series Homepage
 
-The new home for the Cheat Sheet Series project which can be found on <https://www2.owasp.org/www-project-cheat-sheets/>.
+This repository is for the Cheat Sheets page on the OWASP website, available at [https://owasp.org/www-project-cheat-sheets](https://owasp.org/www-project-cheat-sheets).
 
-For any improvements, make sure to open up an issue or a pull request, and we'll make sure to tend to it!
+Please create issues on this repository **only** for content hosted under this subfolder on the OWASP site.
+
+For issues or suggestions related to the contents of the cheat sheets themselves (which are hosted on [https://cheatsheetseries.owasp.org](https://cheatsheetseries.owasp.org)), please use the [https://github.com/OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) repository.
