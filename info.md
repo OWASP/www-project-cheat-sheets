@@ -1,11 +1,9 @@
 ### Project Classification
 
-![Flagship Project](assets/images/mature_projects.png)
-
-![Builders](assets/images/owasp_builders_small.png)
-![Defenders](assets/images/owasp_defenders_small.png)
-
-![Documentation Project](assets/images/owasp_documentation_project.jpg)
+- <i class="fas fa-flag" style="color:#2ADA08;"></i> Flagship Project
+- <i class="fas fa-book" style="color:#233e81;"></i> Documentation
+- <i class="fas fa-shield-alt" style="color:#233e81;"></i> Defender
+- <i class="fas fa-toolbox" style="color:#233e81;"></i> Builder
 
 ### Project Links
 
