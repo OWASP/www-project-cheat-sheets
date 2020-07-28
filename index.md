@@ -47,7 +47,6 @@ It is not mandatory that a request for a new Cheat Sheet (or for an update) come
 ## Core Team
 
 - [Jakub Maćkowski](mailto:jakub.mackowski@owasp.org)
-- [Robin Bailey](mailto:robin@rbsec.net)
 
 ## Contributors V1
 
