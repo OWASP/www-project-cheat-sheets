@@ -16,7 +16,7 @@ pitch: The OWASP Cheat Sheet Series project provides a set of concise good pract
 
 ## Our Goal
 
-The OWASP Cheat Sheet Series was created to provide a set of simple good practice guides for application developers and defenders to follow. Rather than focused on detailed best practices that are impractical for many developers and applications, they are intended to provide **good** practices that the majority of developers will actually be able to implement.
+The OWASP Cheat Sheet Series was created to provide a set of simple good practice guides for application developers and defenders to follow. Rather than focused on detailed best practices that are impractical for many developers and applications, they are intended to provide good practices that the majority of developers will actually be able to implement.
 
 The cheat sheets are available on the main website at [https://cheatsheetseries.owasp.org](https://cheatsheetseries.owasp.org).
 
