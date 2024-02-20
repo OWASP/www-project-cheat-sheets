@@ -11,10 +11,12 @@ pitch: The OWASP Cheat Sheet Series project provides a set of concise good pract
 
 [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-48A646.svg)](https://www.owasp.org/index.php/OWASP_Project_Inventory#tab=Flagship_Projects)
 [![Cheat Sheet Series Github Stars](https://img.shields.io/github/stars/OWASP/CheatSheetSeries?label=Cheat%20Sheet%20Series&style=social)](https://github.com/OWASP/CheatSheetSeries/)
-[![CSCounterBadge](https://img.shields.io/badge/cheat_sheets_available-63-orange.svg)](https://github.com/OWASP/CheatSheetSeries/tree/master/cheatsheets)
-![LicenseBadge](https://img.shields.io/badge/license-C_C-blue.svg)
+[![CSCounterBadge](https://img.shields.io/badge/cheat_sheets_available-91-orange.svg)](https://github.com/OWASP/CheatSheetSeries/tree/master/cheatsheets)
+[![Creative Commons License](https://img.shields.io/github/license/OWASP/CheatSheetSeries)](https://creativecommons.org/licenses/by-sa/4.0/ "CC BY-SA 4.0")
 
 ## Our Goal
+
+![ProjectLogoOfficial](assets/Preface_Cheatsheet_Logo.png)
 
 The OWASP Cheat Sheet Series was created to provide a set of simple good practice guides for application developers and defenders to follow. Rather than focused on detailed best practices that are impractical for many developers and applications, they are intended to provide good practices that the majority of developers will actually be able to implement.
 
@@ -39,15 +41,18 @@ It is not mandatory that a request for a new Cheat Sheet (or for an update) come
 
 > Requests from OPC/ASVS are flagged with a special label in the GitHub repository issues list in order to identify them and set them as a top level priority.
 
-## Project Leaders
-
-- [Jim Manico](mailto:jim.manico@owasp.org)
-- [Jakub Maćkowski](mailto:jakub.mackowski@owasp.org)
-
 ## Contributors V1
 
-Paweł Krawczyk, Mishra Dhiraj, Shruti Kulkarni, Torsten Gigler, Michael Coates, Jeff Williams, Dave Wichers, Kevin Wall, Jeffrey Walton, Eric Sheridan, Kevin Kenan, David Rook, Fred Donovan, Abraham Kang, Dave Ferguson, Shreeraj Shah, Raul Siles, Colin Watson, Neil Matatall, Zaur Molotnikov, Manideep Konakandla, Santhosh Tuppad and many more!
+- **From 2014 to 2018:** [V1](CONTRIBUTOR-V1.md) - Initial version of the project hosted on the [OWASP WIKI](https://wiki.owasp.org).
 
 ## Contributors V2
 
-[GitHub Contributors Graph](https://github.com/OWASP/CheatSheetSeries/graphs/contributors).
+- **From 2019:** [V2](https://github.com/OWASP/CheatSheetSeries/graphs/contributors) - Hosted on [GitHub](https://github.com/OWASP/CheatSheetSeries).
+
+## Special thanks
+
+A special thank you to the following people for their help provided during the migration:
+
+- [Dominique Righetto](https://github.com/righettod): For his special leadership and guidance.
+- [Elie Saad](https://github.com/ThunderSon): For valuable help in updating the OWASP Wiki links for all the migrated cheat sheets and for years of leadership and other project support.
+- [Jakub Maćkowski](https://github.com/mackowski): For valuable help in updating the OWASP Wiki links for all the migrated cheat sheets.

@@ -9,6 +9,7 @@
 
 - [Official Website](https://cheatsheetseries.owasp.org)
 - [GitHub Repository](https://github.com/OWASP/CheatSheetSeries)
+- [Zip Archive of the Website](https://cheatsheetseries.owasp.org/bundle.zip)
 
 ### Getting Involved
 
@@ -17,11 +18,9 @@
 
 ### Slack
 
-- [Join OWASP Slack](https://owasp-slack.herokuapp.com/)
-- [Join our channel](https://owasp.slack.com/messages/C073YNUQG)
+- [Join OWASP Group Slack](https://owasp.org/slack/invite)
+- [Join #cheatsheets channel](https://owasp.slack.com/messages/C073YNUQG)
 
 ### Licensing
 
-The OWASP Cheat Sheet Series is free to use under the [Creative Commons ShareAlike 3 License](https://creativecommons.org/licenses/by-sa/3.0/us/).
-
-![CC License](assets/images/cc_license_small.png)
+The OWASP Cheat Sheet Series is free to use under the [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
