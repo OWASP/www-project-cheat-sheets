@@ -1,0 +1,36 @@
+audience:
+  - builder
+  - defender
+community:
+  - name: cheatsheets
+    platform: slack
+    url: https://owasp.slack.com/archives/C073YNUQG
+    description: "The OWASP Cheat Sheet Series was created to provide a collection of high value info on specific web application security topics.\n\nChannel\
+      \ reserved for technical discussion on CS project.\n\n<https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series>"
+leaders:
+  - name: Jim Manico
+    email: jim.manico@owasp.org
+    github: jmanico
+  - name: Jakub Maćkowski
+    email: jakub.mackowski@owasp.org
+    github: mackowski
+level: 4
+license:
+  - CC-BY-SA-4.0
+name: OWASP Cheat Sheet Series
+pitch: The OWASP Cheat Sheet Series project provides a set of concise good practice guides for application developers and defenders to follow.
+repositories:
+  - name: www-project-cheat-sheets
+    url: https://github.com/OWASP/www-project-cheat-sheets
+    description: OWASP Foundation Web Repository
+  - name: CheatSheetSeries
+    url: https://github.com/OWASP/CheatSheetSeries
+    description: The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
+tags:
+  - appsec
+  - application-security
+  - best-practices
+  - builders
+  - defenders
+type: documentation
+website: https://owasp.org/www-project-cheat-sheets
