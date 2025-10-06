@@ -22,7 +22,7 @@ The OWASP Cheat Sheet Series was created to provide a set of simple good practic
 
 The cheat sheets are available on the main website at [https://cheatsheetseries.owasp.org](https://cheatsheetseries.owasp.org).
 
-If you wish to contribute to the cheat sheets, or to suggest any improvements or changes, then please do so via the issue tracker on the [GitHub](https://github.com/OWASP/CheatSheetSeries) repository. Alternatively, join us in the `#cheetsheats` channel on the OWASP Slack (details in the sidebar).
+If you wish to contribute to the cheat sheets, or to suggest any improvements or changes, then please do so via the issue tracker on the [GitHub](https://github.com/OWASP/CheatSheetSeries) repository. Alternatively, join us in the `#cheatsheets` channel on the OWASP Slack (details in the sidebar).
 
 ## Bridge between the projects OWASP Proactive Controls, OWASP ASVS, and OWASP CSS
 
